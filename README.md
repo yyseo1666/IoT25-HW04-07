@@ -6,56 +6,53 @@ IoT25-HW#04-#07 202334273 KimYeseo
 The ESP32 is used as a Bluetooth serial device to enable text communication between a PC and a smartphone.
 Description: Text entered in the PC's serial monitor is sent to the smartphone, and messages sent from the smartphone are displayed on the PC's serial monitor.
 
-- Screenshot of Arduino IDE showing selected board & port
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/00222dea-9f31-4673-adf1-832d73c836f5" />
+- Deployment & Test/Demo
+https://youtube.com/shorts/vNQ4UiuHT5A?feature=share
 
-
-  
-- Photo of the ESP blinking LED (my own)
-<img width="289" alt="image" src="https://github.com/user-attachments/assets/440d23e8-938f-478c-9315-c2f73a8d5454" />
 
 
 
 ## Assignment 5. 
 
+- Deployment & Test/Demo
+https://youtube.com/shorts/nfvMgwEX8S0?feature=share
 
-- Screenshot of Arduino IDE showing selected board & port
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/00222dea-9f31-4673-adf1-832d73c836f5" />
+![HW52](https://github.com/user-attachments/assets/65e738e6-5a1c-4c01-9b79-03e1d9302560)
 
-
-  
-- Photo of the ESP blinking LED (my own)
-<img width="289" alt="image" src="https://github.com/user-attachments/assets/440d23e8-938f-478c-9315-c2f73a8d5454" />
 
 
 
 ## Assignment 6. 
-Reference: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
-& https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/
 
-- Screenshot of Arduino IDE showing selected board & port
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/00222dea-9f31-4673-adf1-832d73c836f5" />
-
-
-  
-- Photo of the ESP blinking LED (my own)
-<img width="289" alt="image" src="https://github.com/user-attachments/assets/440d23e8-938f-478c-9315-c2f73a8d5454" />
+- Deployment & Test/Demo
+https://youtube.com/shorts/2zhxN139bGA?feature=share
 
 
 
 
 ## Assignment 7. 
-Reference: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
-& https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/
 
-- Screenshot of Arduino IDE showing selected board & port
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/00222dea-9f31-4673-adf1-832d73c836f5" />
+- Deployment & Test/Demo
+https://youtube.com/shorts/x2SVCLzLvhg?feature=share
 
 
-  
-- Photo of the ESP blinking LED (my own)
-<img width="289" alt="image" src="https://github.com/user-attachments/assets/440d23e8-938f-478c-9315-c2f73a8d5454" />
+![KakaoTalk_Photo_2025-05-20-11-10-25 001](https://github.com/user-attachments/assets/34963670-d964-4228-8166-90d699c66c2b)
 
+![KakaoTalk_Photo_2025-05-20-11-10-26 002](https://github.com/user-attachments/assets/e7203bf9-fac7-4b9f-81c2-2ad0ebe85385)
+
+![KakaoTalk_Photo_2025-05-20-11-10-27 003](https://github.com/user-attachments/assets/0bc7290d-2cea-46d1-9a7e-f9b753e3072a)
+
+![KakaoTalk_Photo_2025-05-20-11-10-27 004](https://github.com/user-attachments/assets/2edab04e-b409-4673-a42a-a769e994f43a)
+
+![KakaoTalk_Photo_2025-05-20-11-10-29 005](https://github.com/user-attachments/assets/3956b1da-4c8c-4ce2-b6b3-c024a93bbaad)
+
+![KakaoTalk_Photo_2025-05-20-11-10-30 006](https://github.com/user-attachments/assets/7e85e28d-1c2d-4ce3-adda-c2ec0c9a152d)
+
+![KakaoTalk_Photo_2025-05-20-11-10-31 007](https://github.com/user-attachments/assets/7486e2ff-73fd-4f6b-a25a-4464ebe2d726)
+
+![KakaoTalk_Photo_2025-05-20-11-10-32 008](https://github.com/user-attachments/assets/edef1c2e-f9cd-4cee-a496-5b2b39c30aa1)
+
+![KakaoTalk_Photo_2025-05-20-11-10-33 009](https://github.com/user-attachments/assets/5c63b63f-3417-478f-9a97-0e471f5d5f7a)
 
 
 
