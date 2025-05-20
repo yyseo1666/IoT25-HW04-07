@@ -35,6 +35,14 @@ https://youtube.com/shorts/2zhxN139bGA?feature=share
 - Deployment & Test/Demo
 https://youtube.com/shorts/x2SVCLzLvhg?feature=share
 
+- Measure Result
+Measuring distance of 0.5m : 0.38m
+Measuring distance of 1m : 1.26m
+Measuring distance of 2m : 2.05m
+Measuring distance of 3m : 4.02m
+Measuring distance of 4m : 12.08m
+
+
 
 ![KakaoTalk_Photo_2025-05-20-11-10-25 001](https://github.com/user-attachments/assets/34963670-d964-4228-8166-90d699c66c2b)
 
