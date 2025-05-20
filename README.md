@@ -1,6 +1,9 @@
 # IoT25-HW-04--07
 IoT25-HW#04-#07 202334273 KimYeseo
 
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/8753cc92-37c5-4c0f-9032-fd8a55357f8b" />
+
+
 
 ## Assignment 4. 
 The ESP32 is used as a Bluetooth serial device to enable text communication between a PC and a smartphone.
